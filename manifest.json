@@ -1,0 +1,15 @@
+{
+  "name": "hoverboard2",
+  "description": "Hoverboard 2 XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "hoverboard2.glb",
+  "components": [
+    {
+      "type": "sit",
+      "subtype": "stand",
+      "sitOffset": [0, 0, 0],
+      "speed": 0.01,
+      "damping": 0.99
+    }
+  ]
+}
